@@ -1,7 +1,9 @@
 # NN-ASSIGNMENT_1
 NAME:B.KISHORE BABU
 ID:700752976
+
 QUESTION_4.2
+
 1.What patterns do you observe in the training and validation accuracy curves?
 ANS)
 Adam converges faster, with a steep rise in accuracy early on, but can overfit, leading to a plateau in validation accuracy.
